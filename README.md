@@ -13,6 +13,7 @@
 
 ![](https://img.shields.io/badge/React--informational?style=flat-square&color=61dbfb&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Redux--informational?style=flat-square&color=764abc&logo=Redux&logoColor=white)
+![](https://img.shields.io/badge/GraphQL--informational?style=flat-square&color=fd68aa&logo=graphql&logoColor=white)
 
 ![](https://img.shields.io/badge/Serverless--informational?style=flat-square&color=ea6458&logo=Serverless&logoColor=white)
 
